@@ -23,6 +23,10 @@ Open `index.html` in a browser. The embedded Spotify player needs an internet co
 
 Push changes to the `main` branch. The GitHub Actions workflow deploys the repository root to GitHub Pages.
 
+## Contributors
+
+- [@dlxscloude](https://github.com/dlxscloude) — project owner
+
 ## License and third-party content
 
 The original project source is licensed under the MIT License; see [`LICENSE`](LICENSE). The license does not apply to Spotify's service, player, trademarks, or playlist content. Those remain subject to Spotify's terms and applicable rights.
