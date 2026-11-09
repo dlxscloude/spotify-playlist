@@ -25,7 +25,7 @@ Push changes to the `main` branch. The GitHub Actions workflow deploys the repos
 
 ## Contributors
 
-- [@dlxscloude](https://github.com/dlxscloude) — project owner
+- [@dlxscloude](https://github.com/dlxscloude) — project owner; created and maintains the playlist page.
 
 ## License and third-party content
 
